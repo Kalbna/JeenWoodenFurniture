@@ -1,0 +1,205 @@
+html{
+    /*background-image:url("Jeen\ Mata\ Photo\ Jeen\ Mata\ Mandir\ Rajasthan.png");*/
+    background: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position:relative;
+    
+}
+h1{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+h1 a{
+    text-decoration: none;
+    color:black;
+}
+h1 a:hover{
+    
+    background-color: white;
+    color:rgb(144, 181, 116);
+    border-radius: 10px;
+}
+#heading{
+  
+    text-align:start;
+    border: 2px solid whitesmoke;
+    border-color:transparent;
+    background-color:transparent;
+    color: white;
+    position: sticky;
+    color: #88b06a;
+    font-family: "Raleway",sans-serif;
+}
+
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    background-color:transparent;
+    
+}
+li a{
+    float: left;
+    display: block;
+    color:black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    min-width: 10%;
+    border: 2px solid white;
+    border-color:transparent
+}
+
+li a:hover{
+    background-color:lightgray;
+    color: black;
+    border-radius: 15px;
+    border-color: transparent;
+}
+
+#main_index{
+    border-top: 3px solid black;
+     
+    
+}
+#about{
+    border: 2px solid black;
+    position: relative;
+    width: 90%;
+    left: 5%;
+   
+    max-height: 700px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin-top: 50px;
+    border-color: transparent;
+}
+#about1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 15px;
+    font-style:normal;
+    font-family:  'HandelGothic BT', 'FuturaBlack WGL4 BT', sans-serif;
+    color: #0e72d6d7;
+    
+}
+#final{
+    border: 2px solid black;
+    width: 90%;
+    margin-left: 5%;
+    height: 550px;
+    border-color: transparent;
+}
+li{
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+#contact{
+    border: 2px solid black;
+    position: relative;
+    width: 90%;
+    left: 5%;
+    min-height: 350px;
+    margin-top: 50px;
+    
+    font-size: 20px;
+    padding-left: 10px;
+    text-align: center;
+    font-family: 'Microsoft Sans Serif',sans-serif;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    border-color:transparent ;
+}
+
+address{
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+}
+#get_direction{
+    position: relative;
+    border: 2px solid black;
+    width: 75%;
+    left: 12.5%;
+    margin-top: 50px;
+    
+    min-height: 300px;
+    font-family: 'Microsoft Sans Serif',sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    border-color:transparent ;
+}
+
+#get{
+    position: relative;
+    border: 2px solid black;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    padding-top: 20px;
+    border-color: transparent;
+    border-style: hidden;
+
+}
+#getloco{
+    position: relative;
+    border: 2px solid black;
+    width: 70%;
+    height: 200px;
+    left: 15%;
+    top: -17px;
+    border-color: transparent;
+    border-style: hidden;
+    
+}
+#getloco a:hover{
+    border-bottom: 1px gray solid;
+    border-radius: 5px;
+}
+#note{
+    border-top:2px solid black;
+    margin-top: 150px;
+}
+#final_note{
+    
+    border: 2px solid black;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    font-family: 'Monotype Corsiva',sans-serif;
+    border-style: hidden;
+    border-color: transparent;
+}
+/*#final_note:hover{
+    width: auto;
+    margin: auto;
+    border: 1px solid rgb(6, 113, 219);
+}*/
+#manger{
+    border: 2px solid black;
+    width: 60%;
+    font-size: 10px;
+    font-family: 'Monotype Corsiva',sans-serif;
+    border-color: transparent;
+    border-style: hidden;
+}
+#manger:hover{
+    background-color:lightgoldenrodyellow;
+    color: black;
+    font-family: 'Microsoft Sans Serif';
+    font-size: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border-color: transparent;
+}
